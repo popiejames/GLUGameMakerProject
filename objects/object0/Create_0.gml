@@ -2,4 +2,5 @@
 // You can write your code in this editor
 //Speed of player: 5 Pixels per frame
 playerSpeed = 5;
-controllerCount =0;
+
+controllerConnected = false;
