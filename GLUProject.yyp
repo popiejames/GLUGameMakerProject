@@ -34,7 +34,7 @@
             "Key": "0db5c204-6426-45a7-8ddd-ffae234dbc0f",
             "Value": {
                 "id": "4a27981f-42b2-479e-b4ad-7300a54969ed",
-                "resourcePath": "objects\\object0\\object0.yy",
+                "resourcePath": "objects\\player1\\player1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -170,7 +170,7 @@
             "Key": "cb5995e6-d285-4e56-952f-1a26d0b6983a",
             "Value": {
                 "id": "88dc5aed-3942-44e2-9573-3a2adad49836",
-                "resourcePath": "objects\\object01\\object01.yy",
+                "resourcePath": "objects\\enemy\\enemy.yy",
                 "resourceType": "GMObject"
             }
         },
