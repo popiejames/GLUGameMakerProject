@@ -205,6 +205,14 @@
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
             }
+        },
+        {
+            "Key": "f796ef85-14d7-4366-b83a-00e73140da0c",
+            "Value": {
+                "id": "fe010332-7381-40bd-a10d-3d90c6f80db3",
+                "resourcePath": "objects\\ControllerSupportTest\\ControllerSupportTest.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
