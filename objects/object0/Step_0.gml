@@ -45,7 +45,7 @@ if(controllerConnected){
 			x += playerSpeed; 
 		}
 	 
-	if (MOVEUPController && y > room_height/2) 
+	if (MOVEUPController && y > room_height-sprite_height/2) 
 		{ 
 				    y -= playerSpeed; 
 		}
